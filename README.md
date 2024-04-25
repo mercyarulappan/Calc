@@ -47,7 +47,7 @@ table {
 }
 
 input {
-    text-align: right;
+    text-align: left;
     border-radius: 501px;
     border: 2px solid rgb(47, 126, 126);
     padding: 20px;
@@ -60,8 +60,8 @@ input {
 
 button {
     border-radius: 20px;
-    border: 5;
-    outline: 5;
+    border: 10;
+    outline: 10;
     box-shadow: -8px -8px 15px rgba(16, 15, 15, 0.1),  5px 5px 15px rgba(0, 0, 0, 0.2);
     font-size: 20px;
     background: rgb(20, 190, 88);
@@ -243,9 +243,9 @@ h1 {
 
 ## OUTPUT:
 
-![alt text](<mercya/calcapp/static/Screenshot (115).png>)
+![alt text](<mercya/calcapp/static/Screenshot (117).png>)
 
-![alt text](<mercya/calcapp/static/Screenshot (116).png>)
+![alt text](<mercya/calcapp/static/Screenshot (118).png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
